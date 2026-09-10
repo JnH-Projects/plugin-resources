@@ -1,0 +1,1 @@
+Contains CE3 resources
